@@ -2,10 +2,10 @@
 
 EN_DAY = {1 => "Sunday", 2 => "Monday", 3 => "Tuesday", 4 => "Wednesday", 5 => "Thursday", 6 => "Friday", 7 => "Saturday"}
 
-NP_DAY = {1 => "Aaitabar", 2 => "Sombar", 3 => "Mangalbar", 4 => "Budhabar", 5 => "Bihibar", 6 => "Sukrabar", 7 => "Sanibar"}
+NP_DAY = {1 => "आइतबार", 2 => "सोमबार", 3 => "मंगलबार", 4 => "बुधबार", 5 => "बिहिबार", 6 => "शुक्रबार", 7 => "शनिबार"}
 
-NP_MONTH = {1 => "Baisakh",	2 => "Jestha", 3 => "Asar", 4 => "Shrawan",	5 => "Bhadra", 6 => "Ashoj",
-	7 => "Kartik", 8 => "Mangsir",	9 => "Poush", 10 => "Magh", 11 => "Falgun", 12 => "Chaitra"}
+NP_MONTH = {1 => "बैसाख" ,2 => "जेष्ठ", 3 => "आषाढ", 4 => "श्रावण",	5 => "भदौ", 6 => "असोज",
+	7 => "कार्तिक", 8 => "मंसिर",	9 => "पौष", 10 => "माघ", 11 => "फाल्गुन", 12 => "चैत्र"}
 
 EN_MONTH = {1 => "January", 2 => "February", 3 => "March", 4 => "April", 5 => "May", 6 => "June",
 	7 => "July", 8 => "August", 9 => "September", 10 => "October", 11 => "November", 12 => "December"}
